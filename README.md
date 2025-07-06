@@ -33,10 +33,9 @@ Projeyi nasıl çalıştıracağın ile ilgili bilgiler.
 
 
 ## Oyun Özellikleri
-
--3D
--Multiplayer
--Part-Game
+-  3D
+-  Multiplayer
+-  Part-Game
 
 ---
 
