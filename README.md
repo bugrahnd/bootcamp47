@@ -13,23 +13,17 @@
 ---
 
 ## Oyun İsmi
-Buraya projenin amacı, özellikleri ve kullanım bilgileri yazılır.
-
+İsim belirlenecek
 
 
 ## Oyun Logosu
 
-Projeyi nasıl çalıştıracağın ile ilgili bilgiler.
-
+Logo gelecek
 
 
 ## Oyun Açıklaması
 
 Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda cesur kovboylar ve kurnaz bir barmen arasında akıl oyunları döner. Barmenin tek amacı, tüm kovboyları sarhoş ederek onları saf dışı bırakmaktır. Kovboyların görevi ise ayık kalmak, barmenin hilelerini çözmek ve onu alt etmektir. Strateji, risk ve biraz da şansın birleştiği bu oyunda, her kart ve her tahmin kaderinizi belirleyebilir.
-
-## Oyun Hikayesi
-
-Projeyi nasıl çalıştıracağın ile ilgili bilgiler.
 
 
 ## Oyun Özellikleri
@@ -41,7 +35,7 @@ Projeyi nasıl çalıştıracağın ile ilgili bilgiler.
 
 ## Pazarlama
 
-Projeyi nasıl çalıştıracağın ile ilgili bilgiler.
+  Pazarlama belirlenecek
 
 ---
 # Product Backlog URL
