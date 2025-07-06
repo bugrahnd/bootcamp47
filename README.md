@@ -1,6 +1,3 @@
-# Project Name
-
-Kısa proje açıklaması buraya
 
 ## Team Member
 
