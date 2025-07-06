@@ -48,11 +48,14 @@ Part-Game
 Projeyi nasıl çalıştıracağın ile ilgili bilgiler.
 
 ---
+# Product Backlog URL
+
+![Bootcamp 47](Miro Linki: https://miro.com/app/board/uXjVIjOALLs=/)
 
 # Sprint 1
 - Sprint için hedeflenen puan **70** olarak belirlenmiştir.
 - **Sprint puan tamamlama mantığı:** Proje süresince tamamlanması hedeflenen toplam backlog puanı 350 olarak belirlenmiştir. İlk Sprint'te ise 70 puanlık bir hedef koyulmuş ve bu hedefe başarıyla ulaşılmıştır.
-- **Backlog Düzeni:** Proje backlog'u oluşturulurken, Miro üzerinden "Team Developer" ve "Team Creative" olmak üzere iki ana takıma ayrıldık. Bu süreçte, projenin genel hatlarını belirleyerek gelecek sprintler için gerekli olan script türleri, animasyonlar, modeller, seler ve tasarımları önceden tespit ettik. Kanban panosu oluşturarak, daha önce belirlediğimiz bu materyalleri Sprint 1 için detaylandırdık ve görev dağılımlarını gerçekleştirdik. Görevlerin kolayca ayırt edilebilmesi için renk kodlaması kullandık: sarı kodlamayı, mavi modellemeyi, kırmızı tasarımı, pembe animasyonu ve yeşil ses görevlerini temsil etmektedir. Miro Linki: https://miro.com/app/board/uXjVIjOALLs=/
+- **Backlog Düzeni:** Proje backlog'u oluşturulurken, Miro üzerinden "Team Developer" ve "Team Creative" olmak üzere iki ana takıma ayrıldık. Bu süreçte, projenin genel hatlarını belirleyerek gelecek sprintler için gerekli olan script türleri, animasyonlar, modeller, seler ve tasarımları önceden tespit ettik. Kanban panosu oluşturarak, daha önce belirlediğimiz bu materyalleri Sprint 1 için detaylandırdık ve görev dağılımlarını gerçekleştirdik. Görevlerin kolayca ayırt edilebilmesi için renk kodlaması kullandık: sarı kodlamayı, mavi modellemeyi, kırmızı tasarımı, pembe animasyonu ve yeşil ses görevlerini temsil etmektedir. 
 - **Daily Scrum:** Whatsapp üzerinden günlük konuşmala sağlanıp, toplantılar içinse Slack üzerinden yapılmıştır. Günlük konuşmalarımız ve Slack toplantılarımız İmgur'da toplamıştır. : https://imgur.com/a/IQ3VAJg
 - Proje için ayrılan gruplar şu şekildedir;
   +   **Team Developer:** Yusuf Kansız, Anıl Moran
