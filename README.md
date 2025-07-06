@@ -58,7 +58,7 @@ Projeyi nasıl çalıştıracağın ile ilgili bilgiler.
   +   **Team Developer:** Yusuf Kansız, Anıl Moran
   +   **Team Creative:** Buğrahan Deveci, Aybüke Altay, Gülce Tahtasız
       + Team Developer projenin mekaniklerini, unity tarafında toplanmasını işlerken Team Creative ise modeller, animasyonlar, sesler, tasarımlarla ilgilendi.
-- **Sprint board update:** Sprint Board Screenshot:
+- **Sprint board update:** Sprint Board Screenshot: ![Açıklama](miro.png)
 - **Sprint Review:** Çok oyunculu sistem başarıyla test edildi; buton etkileşimleri tüm istemcilerde senkronize çalıştı. Offline 5 oyunculu rol atama ve tur yönetim sistemi kuruldu, testleri başarıyla tamamlandı. Creative ekip, karakter animasyonlarının prototiplerini oluşturdu, mekânın genel hatlarını hazır modellerle tasarladı. Ayrıca kart tasarımları için farklı karakter tipleri içeren görsel prototipler geliştirildi. Bazı kartlar henüz tamamlanmamış olsa da test için yeterli içerik sağlandı. Sprint hedefi 70 puan olarak belirlenmişti, ancak 5 puanlık “Geri kalan 3 özellik kartının bulunması” görevi iletişim eksikliği nedeniyle tamamlanamadı. Bu nedenle Sprint 1, 65 puan ile tamamlandı.
 İlgili görev bir sonraki sprint'e aktarılacak ve görev takibi daha net rollerle yürütülecektir.
   + **Sprint Review katılımcıları:** Buğrahan Deveci, Aybüke Altay, Gülce Tahtasız
