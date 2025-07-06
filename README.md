@@ -50,7 +50,7 @@ Projeyi nasıl çalıştıracağın ile ilgili bilgiler.
 ---
 # Product Backlog URL
 
-![Bootcamp 47](Miro Linki: https://miro.com/app/board/uXjVIjOALLs=/)
+[Game Bootcamp 47](https://miro.com/app/board/uXjVIjOALLs=/)
 
 # Sprint 1
 - Sprint için hedeflenen puan **70** olarak belirlenmiştir.
