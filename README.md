@@ -54,11 +54,11 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
 - **Sprint board update:** Sprint Board Screenshot: ![Açıklama](miro.png)
 - <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
- ![Screenshot](Project_Management/Sprint1/kart.jpeg)
- ![Screenshot](Project_Management/Sprint1/modelgörsel.jpeg)
- ![Screenshot](Project_Management/Sprint1/multi.png)
- ![Screenshot](Project_Management/Sprint1/rol.jpeg)
- ![Screenshot](Project_Management/Sprint1/unity.png)
+   ![Screenshot](Project_Management/Sprint1/kart.jpeg)
+   ![Screenshot](Project_Management/Sprint1/modelgörsel.jpeg)
+   ![Screenshot](Project_Management/Sprint1/multi.png)
+   ![Screenshot](Project_Management/Sprint1/rol.jpeg)
+   ![Screenshot](Project_Management/Sprint1/unity.png)
   </details>
   
 - **Sprint Review:** Çok oyunculu sistem başarıyla test edildi; buton etkileşimleri tüm istemcilerde senkronize çalıştı. Offline 5 oyunculu rol atama ve tur yönetim sistemi kuruldu. Creative ekip, karakter animasyonlarının prototiplerini oluşturdu, mekânın genel hatlarını tasarlandı. Ayrıca kart tasarımları için farklı karakter tipleri içeren görsel prototipler geliştirildi. Bazı kartlar henüz tamamlanmamış olsa da test için yeterli içerik sağlandı. Sprint hedefi 70 puan olarak belirlenmişti, ancak 5 puanlık “Geri kalan 3 özellik kartının bulunması” görevi iletişim eksikliği nedeniyle tamamlanamadı. Bu nedenle Sprint 1, 65 puan ile tamamlandı.
