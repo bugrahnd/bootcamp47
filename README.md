@@ -109,7 +109,7 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
   + Bir önceki sprint de belirttiğimiz yaşanan iletişim eksiklikleri, görev takibindeki belirsizlikler ve gerçekçi olmayan süre tahminlerini bu sprintte çözdük. Haftalık düzenli toplantılar sayesinde takım içi iletişim güçlendi, görevlerin takibi şeffaflaştı. Bilgi paylaşımında yaşanan önceki kopukluklar ise tüm ekip üyelerinin sürece aktif katılımıyla çözüldü.
   + **Sprint Review katılımcıları:** Buğrahan Deveci, Yusuf Kansız, Aybüke Altay, Anıl Moran, Gülce Tahtasız.
 - **Sprint Retrospective:**
-  - Sprint 3 süresince, oyunun genel atmosferini tamamlayacak önemli içerikler üretilmesi planlandı.
-  - Sprint'in ilerleyen günlerinde ekip, oyunu oynayarak doğrudan test edecek, bu testler sayesinde eksik kalan veya geliştirilmeye açık olan kısımlar listelenecek ve son teslimden önce revize edilecek.
-
+  + Sprint 2, önceki sprintte yaşanan iletişim eksikliklerinin büyük ölçüde çözülmesiyle daha verimli geçti. WhatsApp üzerinden yürütülen günlük konuşmalar ve düzenli Google Meet toplantıları, ekip içindeki bilgi akışını güçlendirdi ve görevlerin takibini daha şeffaf hale getirdi. Bu sprintte belirlenen 125 puanlık hedefe tam olarak ulaşılması, hem planlama hem de ekip koordinasyonunun önceki sprintlere göre iyileştiğini gösterdi. Miro üzerinden devam eden proje yönetimi, görevlerin net bir şekilde dağıtılmasını sağladı ve renk kodlamalarının Sprint 1 ile tutarlı şekilde devam etmesi, ekip içi düzeni pekiştirdi.
+  + Team Developer, multiplayer senkronizasyon, sarhoşluk sistemi, kart tahmin ve kart dağıtımı gibi oyunun temel mekaniklerini başarıyla tamamladı. Team Creative ise karakter modelleri, kart çizimleri ve ortam modelleri ile oyunun atmosferine büyük katkıda bulundu. Her iki ekibin kendi alanında sorumlulukları net şekilde yerine getirmesi, bu sprintin güçlü yönlerinden biri oldu.
+  + Oyunun test süreci Sprint 2’de henüz tam olarak devreye alınmadığı için eksik veya geliştirilmeye açık noktalar Sprint 3’e bırakıldı. Bu noktada, Sprint 3 için planlanan oyunu oynayarak doğrudan test ederek süreci daha da hızlandırmak adına önemli bir adım olacak.
 # Sprint 3
