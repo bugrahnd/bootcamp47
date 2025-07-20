@@ -51,7 +51,7 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
   +   **Team Developer:** Yusuf Kansız, Anıl Moran
   +   **Team Creative:** Buğrahan Deveci, Aybüke Altay, Gülce Tahtasız
       + Team Developer projenin mekaniklerini, unity tarafında toplanmasını işlerken Team Creative ise modeller, animasyonlar, sesler, tasarımlarla ilgilendi.
-- **Sprint board update:** Sprint Board Screenshot: ![Açıklama](miro.png)
+- **Sprint board update:** Sprint Board Screenshot: ![Açıklama](Project_Management/Sprint1/miro.png)
 - <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
    ![Screenshot](Project_Management/Sprint1/kart.jpeg)
@@ -78,7 +78,7 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
   +   **Team Developer:** Yusuf Kansız, Anıl Moran
   +   **Team Creative:** Buğrahan Deveci, Aybüke Altay, Gülce Tahtasız
       + Team Developer projenin mekaniklerini, unity tarafında toplanmasını işlerken Team Creative ise modeller, animasyonlar, sesler, tasarımlarla ilgilendi.
-- **Sprint board update:** Sprint Board Screenshot: ![Açıklama](miro2.png)
+- **Sprint board update:** Sprint Board Screenshot: ![Açıklama](Project_Management/Sprint1/miro2.png)
 - <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
    ![Screenshot](Project_Management/Sprint1/kart.jpeg)
