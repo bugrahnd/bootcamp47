@@ -91,7 +91,7 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
    ![Screenshot](Project_Management/Sprint2/barmen.png)
    ![Screenshot](Project_Management/Sprint2/bar.png)
    ![Screenshot](Project_Management/Sprint2/bargelismis.png)
-   ![Screenshot](Project_Management/Sprint2/barmenbakıs.jpg)
+   ![Screenshot](Project_Management/Sprint2/barmenbakis.jpg)
    ![Screenshot](Project_Management/Sprint2/ic.png)
    ![Screenshot](Project_Management/Sprint2/dis.png)
    ![Screenshot](Project_Management/Sprint2/kartlar.png)
