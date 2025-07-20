@@ -91,13 +91,13 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
 - **Sprint Review:**
   + Sprint 2 boyunca odak noktamız, oyunun temel döngüsünü oynanabilir hâle getirmekti. Bu kapsamda sarhoşluk mekaniği, kart tahmin sistemi, kart dağıtımı, rol ve UI gösterimi, animasyonların multiplayer senkronizasyonu gibi etkileşimli yapılar başarıyla tamamlandı. Özellikle tahmin mekanizması ile oyuncu etkileşimi sağlanmış, her oyuncunun kendi sarhoşluk durumu sistem üzerinden dinamik şekilde takip edilir hâle getirilmiştir.
 
-  + Çok oyunculu sistem bu sprintte ilk defa stabil şekilde test edildi. Oyuncular arası senkronizasyon başarıyla sağlandı; buton etkileşimleri tüm istemcilerde sorunsuz çalıştı. Kart dağıtımı butonu ile her oyuncuya ait "CardArea" nesnelerine 4 adet kart eşit şekilde dağıtıldı.
+  + Çok oyunculu sistem bu sprintte ilk defa stabil şekilde test edildi. Oyuncular arası senkronizasyon başarıyla sağlandı; buton etkileşimleri tüm istemcilerde sorunsuz çalıştı. Kart dağıtımı butonu ile her oyuncuya ait kart eşit şekilde dağıtıldı.
 
   + Creative ekip, karakter modelleri, bar sahnesi, barmen animasyonları ve karakterlerin animasyonları üzerinde çalışarak oyun atmosferinin temel yapısını oluşturdu. Karakterler; kültürel çeşitlilik barındıracak şekilde modellendi bunlar Türk, Amerikan, Asyalı erkek ve Rus kadın. Barmen için Idle, alkol doldurma ve kart çekme iken karakterlerde kart bakma animasyonları tamamlandı. Kart çizimlerinin bir kısmı 3D modele dönüştürülerek (özel kartlar hariç) Unity’e entegre edildi. Blender üzerinden yapılan kart modellemeleri başarıyla aktarılmış ve oyun içi görselliğe katkı sağlanmıştır.
   + Bir önceki sprint de belirttiğimiz yaşanan iletişim eksiklikleri, görev takibindeki belirsizlikler ve gerçekçi olmayan süre tahminlerini bu sprintte çözdük. Haftalık düzenli toplantılar sayesinde takım içi iletişim güçlendi, görevlerin takibi şeffaflaştı. Bilgi paylaşımında yaşanan önceki kopukluklar ise tüm ekip üyelerinin sürece aktif katılımıyla çözüldü.
   + **Sprint Review katılımcıları:** Buğrahan Deveci, Yusuf Kansız, Aybüke Altay, Anıl Moran, Gülce Tahtasız.
 - **Sprint Retrospective:**
-  - Sprint 3 süresince, oyunun genel atmosferini tamamlayacak önemli içerikler üretilmesi planlandı
+  - Sprint 3 süresince, oyunun genel atmosferini tamamlayacak önemli içerikler üretilmesi planlandı.
   - Sprint'in ilerleyen günlerinde ekip, oyunu oynayarak doğrudan test edecek, bu testler sayesinde eksik kalan veya geliştirilmeye açık olan kısımlar listelenecek ve son teslimden önce revize edilecek.
 
 # Sprint 3
