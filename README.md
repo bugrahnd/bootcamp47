@@ -13,7 +13,7 @@
 ---
 
 ## Oyun İsmi
-İsim belirlenecek
+Buzzed & Busted
 
 
 ## Oyun Logosu
