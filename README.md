@@ -107,4 +107,27 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
   + Sprint 2, ekip koordinasyonu ve iletişim açısından önceki sprintlere göre çok daha başarılı geçti. WhatsApp ve Google Meet toplantılarıyla bilgi akışı güçlendi, görevlerin takibi şeffaf hale geldi. Hedeflenen 125 puanlık backlog başarıyla tamamlandı ve Miro üzerinde düzenli güncellemeler yapıldı. Team Developer ve Team Creative arasındaki iş bölümü netleşti, her iki ekip de sorumluluklarını zamanında yerine getirdi.
   + Team Developer, multiplayer senkronizasyon, sarhoşluk sistemi, kart tahmin ve kart dağıtımı gibi oyunun temel mekaniklerini başarıyla tamamladı. Team Creative ise karakter modelleri, kart çizimleri ve ortam modelleri ile oyunun atmosferine büyük katkıda bulundu. Her iki ekibin kendi alanında sorumlulukları net şekilde yerine getirmesi, bu sprintin güçlü yönlerinden biri oldu.
   + Oyunun test süreci Sprint 2’de henüz tam olarak devreye alınmadığı için eksik veya geliştirilmeye açık noktalar Sprint 3’e bırakıldı. Bu noktada, Sprint 3 için planlanan oyunu oynayarak doğrudan test ederek süreci daha da hızlandırmak adına önemli bir adım olacak.
+  
 # Sprint 3
+- Sprint için hedeflenen puan **140** olarak belirlenmiştir.
+- **Sprint puan tamamlama mantığı:** Proje süresince tamamlanması hedeflenen toplam backlog puanı 350 olarak belirlenmiştir. Üçüncü Sprint'te ise 140 puanlık bir hedef koyulmuş ve oyun içi sesler (10 puan) ve alkol durumuna göre karakter animasyonları (10 puan) görevleri tamamlanamamıştır. Geriye kalan görevlerin tümü başarıyla yerine getirilmiştir ve sprint toplamda 120 puan ile tamamlanmıştır.
+- **Backlog Düzeni:** Sprint 3 sürecinde de önceki sprintlerde oluşturduğumuz yapı temel alınarak ilerlenmiştir. Proje yönetimi yine Miro üzerinden gerçekleştirilmiş ve ekip, önceki sprintlerle aynı şekilde "Team Developer" ve "Team Creative" olmak üzere iki ana gruba ayrılmıştır. Sprint 1 ve 2’de temelleri atılan proje yapısı bu sprintte doğrudan test edilebilir hale getirilmiş ve oyunun genel işleyişi üzerinde yoğunlaşılmıştır. Görevler script, modelleme, animasyon ve oyun içi mekanikler başlıkları altında detaylandırılarak bireysel olarak atanmış; tüm görevler puan sistemi ile önceliklendirilmiştir. Görev dağılımı yapılırken Sprint 1 ve 2’de kullanılan renk kodlamaları korunmuştur. Sprint 3’te, karakter animasyonlarının multiplayer ile optimize edilmesi, oyuncu UI göstergeleri, NPC modelleme ve animasyonları, özel kart tasarımları, oyun rehberi, level design gibi hem teknik hem de estetik açıdan önemli görevler yerine getirilmiştir. Menü tasarımı tüm ekip tarafından tamamlanırken, karakter animasyonları, kart sistemleri ve UI gibi temel etkileşimli sistemler Unity ortamında başarıyla entegre edilmiştir.
+- **Daily Scrum:**Sprint boyunca günlük iletişim yalnızca WhatsApp üzerinden yürütüldü. Planlanan düzenli toplantılar gerçekleştirilemedi. Sadece son gün, ürün testi amacıyla tüm ekip bir araya gelerek oyun üzerinde doğrudan testler yapıldı.
+- Proje için ayrılan gruplar şu şekildedir;
+  +   **Team Developer:** Yusuf Kansız, Anıl Moran
+  +   **Team Creative:** Buğrahan Deveci, Aybüke Altay, Gülce Tahtasız
+      + Team Developer projenin mekaniklerini, unity tarafında toplanmasını işlerken Team Creative ise modeller, animasyonlar, sesler, tasarımlarla ilgilendi.
+- **Sprint board update:** Sprint Board Screenshot: ![Açıklama](Project_Management/Sprint2/miro2.png)
+- <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+  
+  </details>
+  
+- **Sprint Review:**
+  + Sprint 3’ün hedefi, oyunu tüm yönleriyle test edilebilir hale getirmekti. Teknik ve görsel birçok sistem başarıyla tamamlandı ve test edildi. Özellikle multiplayer animasyon senkronizasyonu, özel kart mantığı ve temel etkileşimlerin tamamlanmasıyla birlikte, oyun tüm oyuncular tarafından test edilip geri bildirimler alındı.
+
+  + Sprint 3 hedefi olan 140 puandan, 120 puanlık görevler tamamlanarak büyük oranda başarıya ulaşıldı. Eksik kalan görevler ise ses tasarımı ve alkol durumuna göre karakter animasyonları oldu. Bu görevler, sprintin son sprint olması nedeniyle askıya alındı.
+
+  + **Sprint Review katılımcıları:** Buğrahan Deveci, Yusuf Kansız, Aybüke Altay, Anıl Moran, Gülce Tahtasız.
+- **Sprint Retrospective:**
+  + Bu sprintte önceki sprintlerde edinilen deneyimlerin tam olarak uygulanamadığı gözlemlendi. Ekip üyelerinin bireysel yoğunlukları, düzenli toplantıların yapılmasını ve görev takibinin etkinliğini azalttı. Bu durum, özellikle zaman yönetimi ve iş bölümü açısından aksamalara yol açtı.
+  + Ancak, tüm bu zorluklara rağmen sprint hedefi büyük oranda tamamlandı ve oyun oynanabilir, test edilebilir bir duruma geldi. Bu sprint, projenin son sprinti olması nedeniyle aynı zamanda projenin tamamlanma sprintiydi. Son test oturumunda ekip bir araya gelerek oyunun son halini gözden geçirdi ve eksikler belirlendi.
