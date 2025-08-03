@@ -131,3 +131,4 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
 - **Sprint Retrospective:**
   + Bu sprintte önceki sprintlerde edinilen deneyimlerin tam olarak uygulanamadığı gözlemlendi. Ekip üyelerinin bireysel yoğunlukları, düzenli toplantıların yapılmasını ve görev takibinin etkinliğini azalttı. Bu durum, özellikle zaman yönetimi ve iş bölümü açısından aksamalara yol açtı.
   + Ancak, tüm bu zorluklara rağmen sprint hedefi büyük oranda tamamlandı ve oyun oynanabilir, test edilebilir bir duruma geldi. Bu sprint, projenin son sprinti olması nedeniyle aynı zamanda projenin tamamlanma sprintiydi. Son test oturumunda ekip bir araya gelerek oyunun son halini gözden geçirdi ve eksikler belirlendi.
+  + Bu sprintte Product Owner ve Scrum Master rolleri değiştirilmiştir.
