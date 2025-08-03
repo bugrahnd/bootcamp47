@@ -18,7 +18,7 @@ Buzzed & Busted
 
 ## Oyun Logosu
 
-Logo gelecek
+   ![Screenshot](Project_Management/logo.jpg)
 
 
 ## Oyun Açıklaması
