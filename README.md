@@ -112,13 +112,15 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
 - Sprint için hedeflenen puan **140** olarak belirlenmiştir.
 - **Sprint puan tamamlama mantığı:** Proje süresince tamamlanması hedeflenen toplam backlog puanı 335 olarak belirlenmiştir. Üçüncü Sprint'te ise 140 puanlık bir hedef koyulmuş ve oyun içi sesler (10 puan) ve alkol durumuna göre karakter animasyonları (10 puan) görevleri tamamlanamamıştır. Geriye kalan görevlerin tümü başarıyla yerine getirilmiştir ve sprint toplamda 120 puan ile tamamlanmıştır.
 - **Backlog Düzeni:** Sprint 3 sürecinde de önceki sprintlerde oluşturduğumuz yapı temel alınarak ilerlenmiştir. Proje yönetimi yine Miro üzerinden gerçekleştirilmiş ve ekip, önceki sprintlerle aynı şekilde "Team Developer" ve "Team Creative" olmak üzere iki ana gruba ayrılmıştır. Sprint 1 ve 2’de temelleri atılan proje yapısı bu sprintte doğrudan test edilebilir hale getirilmiş ve oyunun genel işleyişi üzerinde yoğunlaşılmıştır. Görevler script, modelleme, animasyon ve oyun içi mekanikler başlıkları altında detaylandırılarak bireysel olarak atanmış; tüm görevler puan sistemi ile önceliklendirilmiştir. Görev dağılımı yapılırken Sprint 1 ve 2’de kullanılan renk kodlamaları korunmuştur. Sprint 3’te, karakter animasyonlarının multiplayer ile optimize edilmesi, oyuncu UI göstergeleri, NPC modelleme ve animasyonları, özel kart tasarımları, oyun rehberi, level design gibi hem teknik hem de estetik açıdan önemli görevler yerine getirilmiştir. Menü tasarımı tüm ekip tarafından tamamlanırken, karakter animasyonları, kart sistemleri ve UI gibi temel etkileşimli sistemler Unity ortamında başarıyla entegre edilmiştir.
-- **Daily Scrum:**Sprint boyunca günlük iletişim yalnızca WhatsApp üzerinden yürütüldü. Planlanan düzenli toplantılar gerçekleştirilemedi. Sadece son gün, ürün testi amacıyla tüm ekip bir araya gelerek oyun üzerinde doğrudan testler yapıldı.
+- **Daily Scrum:** Sprint boyunca günlük iletişim yalnızca WhatsApp üzerinden yürütüldü. Planlanan düzenli toplantılar gerçekleştirilemedi. Sadece son gün, ürün testi amacıyla tüm ekip bir araya gelerek oyun üzerinde doğrudan testler yapıldı: https://imgur.com/a/fXdISlt
 - Proje için ayrılan gruplar şu şekildedir;
   +   **Team Developer:** Yusuf Kansız, Anıl Moran
   +   **Team Creative:** Buğrahan Deveci, Aybüke Altay, Gülce Tahtasız
       + Team Developer projenin mekaniklerini, unity tarafında toplanmasını işlerken Team Creative ise modeller, animasyonlar, sesler, tasarımlarla ilgilendi.
 - **Sprint board update:** Sprint Board Screenshot: ![Açıklama](Project_Management/Sprint3/miro3.png)
 - <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
+
+    ![Screenshot](Project_Management/Sprint2/1deste.png)
   
   </details>
   
