@@ -33,11 +33,6 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
 
 ---
 
-## Pazarlama
-
-  Pazarlama belirlenecek
-
----
 # Product Backlog URL
 
 [Game Bootcamp 47](https://miro.com/app/board/uXjVIjOALLs=/)
