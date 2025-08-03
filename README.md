@@ -130,6 +130,12 @@ Vahşi Batı temalı, 5 oyunculu, sürükleyici bir kart oyunudur. Bu oyunda ces
     ![Screenshot](Project_Management/Sprint3/-1.png)
     ![Screenshot](Project_Management/Sprint3/2x.png)
     ![Screenshot](Project_Management/Sprint3/herkese.png)
+    ![Screenshot](Project_Management/Sprint3/anamenü.png)
+    ![Screenshot](Project_Management/Sprint3/npcler.png)
+    ![Screenshot](Project_Management/Sprint3/mekan1.png)
+    ![Screenshot](Project_Management/Sprint3/mekan2.png)
+    ![Screenshot](Project_Management/Sprint3/mekan3.png)
+
 
   
   </details>
